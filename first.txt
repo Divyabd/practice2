@@ -1,2 +1,7 @@
 firts file
+<<<<<<< HEAD
 hello 
+=======
+add branch content
+>>>>>>> branch1
+again
